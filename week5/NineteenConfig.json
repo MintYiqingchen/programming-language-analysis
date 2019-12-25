@@ -1,0 +1,4 @@
+{
+    "WordsPluginName":"plugin/ExtractWords1.so",
+    "FrequencyPluginName":"plugin/Frequency1.so"
+}

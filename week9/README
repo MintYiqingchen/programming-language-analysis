@@ -1,0 +1,9 @@
+My version:
+python3, tensorflow==1.12.0, keras==2.2.4
+
+RUN:
+```
+python easy.py ../pride-and-prejudice.txt
+python moderate0.py ../pride-and-prejudice.txt
+python moderate1.py ../pride-and-prejudice.txt
+```
