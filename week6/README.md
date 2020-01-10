@@ -17,6 +17,11 @@ Possible names:
 - Objects
 - Actors
 
+When receive a message, a actor can:
+* change its state
+* send more message
+* create new actors
+
 ### Style Dataspace (TwentyNine.go)
 Constraints:
 
